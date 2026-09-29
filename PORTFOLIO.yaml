@@ -1,0 +1,13 @@
+schema_version: 1
+repository: inverse-optimization
+role: umbrella
+axis: methodology
+area: inverse-optimization
+status: active
+owner: jorsacademy
+projects:
+  - inverse-optimization-shortest-path
+conventions:
+  provenance_records: true
+  reproducibility_expected: true
+  benchmark_assumptions_documented: true
